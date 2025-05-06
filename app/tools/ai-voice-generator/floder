@@ -1,5 +1,0 @@
-ai-creator-hub/
-  └── app/
-      └── tools/
-          └── ai-voice-generator/
-              └── page.tsx
